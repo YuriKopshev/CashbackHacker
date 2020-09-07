@@ -6,4 +6,7 @@ public class CashbackHacker {
     public int remain(int amount) {
         return boundary - amount % boundary;
     }
+
 }
+
+
